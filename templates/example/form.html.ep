@@ -1,0 +1,9 @@
+<form action="/die" method="POST">
+  <input type="hidden" name="data" value="test 1" >
+  <button> EXAMPLE 1 </button>
+</form>
+
+<form action="/die_rand?high=1" method="POST">
+  <input type="hidden" name="data" value="test 2" >
+  <button> EXAMPLE 2 </button>
+</form>
